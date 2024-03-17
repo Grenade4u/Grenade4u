@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on JavaScript projects
 - 📫 How to reach me kunal98358@gamil.com
 - 😄 Pronouns: He
-- ⚡ Fun fact: I have completed my JavaScript but still unable write basic code (trying hard)
+- ⚡ Fun fact: I am not funny at all, ohh!! wait i am - ummm, i am confused if i am or not....
 
 <!---
 Grenade4u/Grenade4u is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
